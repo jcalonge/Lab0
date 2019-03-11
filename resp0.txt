@@ -1,4 +1,3 @@
-hola, este es mi lab 0
  1  git config --global user.name "jcalonge"
     2  git config --global user.email jcalonge@uc.cl
     3  cd /c/Users/Desktop/pruebaescritorio
